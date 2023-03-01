@@ -1,0 +1,57 @@
+level 1
+  wwwwww
+  wpbd w
+  wwwwww
+
+level 2
+wwwww   
+w  pwwww
+w  bd  w
+wwwbdw w
+w  bdw w
+w w    w
+w    www
+wwwwww  
+
+level 3
+     wwwwwww     
+     w  p  w     
+     w www ww    
+wwww w w w  wwwww
+w  www w w d    w
+w d    w w i bb w
+w i bb w w iww ww
+w iww ww w i   w 
+w d   w  w iww w 
+w  wwww  w d   w 
+wwww     w  wwww 
+         www     
+
+level 4
+        wwwww    
+        w   wwwww
+        w wbww  w
+        w     b w
+wwwwwwwww www   w
+wdddd  ww b  bwww
+wdddd    b bb ww 
+wdddd  wwb  b pw 
+wwwwwwwww  b  ww 
+        w b b  w 
+        www ww w 
+          w    w 
+          wwwwww 
+
+level 5
+   wwwww 
+   w   w 
+wwww w w 
+w d dw w 
+w  d   w 
+w dww bww
+ww  wbb w
+ ww   bpw
+  ww  www
+   wwww  
+
+level 6
