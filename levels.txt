@@ -14,18 +14,16 @@ w    www
 wwwwww  
 
 level 3
-     wwwwwww     
-     w  p  w     
-     w www ww    
-wwww w w w  wwwww
-w  www w w d    w
-w d    w w i bb w
-w i bb w w iww ww
-w iww ww w i   w 
-w d   w  w iww w 
-w  wwww  w d   w 
-wwww     w  wwww 
-         www     
+        wwwwwwww 
+        w     pw 
+        w bwb ww 
+        w b  bw  
+        wwb b w  
+wwwwwwwww b w www
+wdddd  ww b  b  w
+wwddd    b  b   w
+wdddd  wwwwwwwwww
+wwwwwwww         
 
 level 4
         wwwww    
@@ -55,3 +53,31 @@ ww  wbb w
    wwww  
 
 level 6
+    wwwww           
+    w   w           
+    wb  w           
+  www  bww          
+  w  b b w          
+www w ww w   wwwwww 
+w   w ww wwwww  ddw 
+w b  b          ddw 
+wwwww www wpww  ddw 
+    w     wwwwwwwww 
+    wwwwwww         
+
+level 7
+   wwwwwwwwww   
+   wdd  w   w   
+   wdd      w   
+   wdd  w  wwww 
+  wwwwwww  w  ww
+  w            w
+  w  w  ww  w  w
+wwww ww  wwww ww
+w  b  wwwww w  w
+w w b  b  w b  w
+w pb  b   w   ww
+wwww ww wwwwwww 
+   w    w       
+   wwwwww       
+

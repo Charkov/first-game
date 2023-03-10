@@ -167,7 +167,7 @@ class Game:
             run = True
             while run:
                 for event in pygame.event.get():
-                    if event.type == pygame.QUIT:
+                    if event.type == pygame.QUIT or event.type == pygame.MOUSEBUTTONDOWN:
                         run = False
                 screen.fill((0, 0, 0))
                 screen.blit(pygame.transform.scale(img, [500, 200]), [10, 10])
@@ -228,6 +228,7 @@ class Game:
                         parent.show()
             pygame.display.update()
             if Sokoban(level).level_complet():
+                pygame.mixer.music.pause()
                 tac = time.perf_counter()
                 print('level completed')
                 new_time = float(f'{tac - tic:0.2f}')
@@ -244,9 +245,8 @@ class Game:
                         draw_game_over(old_time, new_time)
                 else:
                     cur.execute('''UPDATE time SET level_time = ? WHERE id = ?''', (new_time, number))
-                    draw_game_over('-', new_time)
+                    draw_game_over(new_time, new_time)
                 con.commit()
-                pygame.mixer.music.pause()
                 parent.show()
                 running = False
         pygame.quit()
